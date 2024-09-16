@@ -5,5 +5,3 @@ I'm Jamie, and I'm a first-year Software Engineering Degree Apprentice at Bloomb
 I've got experience in web languages such as HTML, CSS and Javascript, as well as frameworks such as Node and React.
 
 Currently, I'm learning Java with my university course, and learning UNIX, Docker, Python and Typescript in preparation for my next project at Bloomberg.
-
-Happy exploring!
