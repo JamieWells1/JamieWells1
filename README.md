@@ -1,7 +1,7 @@
 # Hi, I'm Jamie 👋
 
-I'm a Software Engineering Apprentice at <span style="vertical-align: middle;">
-    ![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
+I'm a Software Engineering Apprentice at <span style="margin-top: 10px;">
+    ![Bloomberg](https://img.shields.io/badge/Bloomberg-262626?style=for-the-badge&logo=bloomberg&logoColor=white)
 </span> with passions for FinTech and EdTech. 💻
 
 
