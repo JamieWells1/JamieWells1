@@ -18,4 +18,4 @@ I'm a Software Engineering Apprentice with passions for FinTech and EdTech. 💻
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-**I'm interested in collaborating on exciting FinTech projects!**
+*I'm interested in collaborating on exciting FinTech projects!*
