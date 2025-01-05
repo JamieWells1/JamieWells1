@@ -22,3 +22,5 @@ I'm a Software Engineering Apprentice with passions for FinTech and EdTech. 💻
 ---
 
 *I'm interested in collaborating on exciting FinTech projects!*
+
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
