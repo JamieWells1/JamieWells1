@@ -3,7 +3,7 @@
 I'm a Software Engineering Apprentice with passions for FinTech and EdTech. 💻
 
 
-## Proficient in:
+### Proficient in:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -12,7 +12,12 @@ I'm a Software Engineering Apprentice with passions for FinTech and EdTech. 💻
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Currently learning:
+### Currently learning:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+**I'm interested in collaborating on exciting FinTech projects!**
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
