@@ -1,6 +1,6 @@
 # Hi, I'm Jamie 👋
 
-I'm a Software Engineering Apprentice at   ![Bloomberg](https://img.shields.io/badge/Bloomberg-262626?style=for-the-badge&logo=bloomberg&logoColor=white)    with passions for FinTech and EdTech. 💻
+I'm a Software Engineering Apprentice at   ![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white)    with passions for FinTech and EdTech. 💻
 
 
 ### Proficient in:
@@ -22,5 +22,3 @@ I'm a Software Engineering Apprentice at   ![Bloomberg](https://img.shields.io/b
 ---
 
 *I'm interested in collaborating on exciting FinTech projects!*
-
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
