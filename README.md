@@ -19,5 +19,3 @@ I'm a Software Engineering Apprentice with passions for FinTech and EdTech. 💻
 
 
 **I'm interested in collaborating on exciting FinTech projects!**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
