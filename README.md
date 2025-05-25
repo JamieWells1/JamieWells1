@@ -1,6 +1,6 @@
 # Hi, I'm Jamie 👋
 
-<span style="margin-top: 100px;">I'm a Software Engineering Apprentice with a passion for FinTech and EdTech. 💻</span>
+<span style="margin-top: 100px;">I'm a Software Engineering Apprentice with a passion for FinTech.</span>
 
 
 ### Proficient in using:
